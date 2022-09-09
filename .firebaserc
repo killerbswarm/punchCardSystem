@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "swarm-testbed"
+  },
+  "targets": {
+    "swarm-testbed": {
+      "hosting": {
+        "development": [
+          "development"
+        ],
+        "swarmfitness": [
+          "swarmfitness"
+        ]
+      }
+    }
+  }
+}
